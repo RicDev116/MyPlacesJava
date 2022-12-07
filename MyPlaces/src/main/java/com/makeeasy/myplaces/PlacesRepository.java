@@ -2,7 +2,7 @@ package com.makeeasy.myplaces;
 
 public interface PlacesRepository {
     Place element(int id);
-    void add(Place place);
+            void add(Place place);
     int neww();
     void delete(int id);
     int size();

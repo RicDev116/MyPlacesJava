@@ -9,6 +9,8 @@ public class GeoPoint {
     static public GeoPoint SIN_POSICION = new GeoPoint(0.0,0.0);
 
     public GeoPoint(double latitude, double longitude) {
+
+
         this.latitude = latitude;
         this.longitude = longitude;
     }
