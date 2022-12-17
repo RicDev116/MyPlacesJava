@@ -11,6 +11,7 @@ public class GeoPoint {
     public GeoPoint(double latitude, double longitude) {
 
 
+
         this.latitude = latitude;
         this.longitude = longitude;
     }
